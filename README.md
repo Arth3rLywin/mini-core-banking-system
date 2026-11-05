@@ -76,4 +76,4 @@ This project simulates basic banking operations such as account management and m
 
 1. Clone the repository
 ```bash
-git clone https://github.com/YourUsername/mini-core-banking-system.git
+git clone https://github.com/Arth3rLywin/mini-core-banking-system.git
